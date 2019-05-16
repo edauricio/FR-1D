@@ -1,0 +1,3 @@
+TODO:
+
+- Change calculation of fL and fR to local coordinates (using Lagrangian polynomial constructed w/ loc[])
